@@ -6,7 +6,7 @@
   "description": "Share a folder of linked markdown notes from a private GitHub repo as a navigable graph.",
   "type": "module",
   "engines": {
-    "node": ">=22.13"
+    "node": "22.23.4"
   },
   "scripts": {
     "start": "node --disable-warning=ExperimentalWarning src/server.js",
